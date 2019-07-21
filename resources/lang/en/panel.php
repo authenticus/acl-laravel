@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'test',
+    'site_title' => 'Laravel Access Control',
 ];
