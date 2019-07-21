@@ -1,4 +1,4 @@
-Installation Instructions:
+*Installation Instructions:*
 
 Run:
 
@@ -10,8 +10,11 @@ Manually update .env with your Database settings. Example:
 
 
 DB_DATABASE=acl_laravel
+
 DB_USERNAME=root
+
 DB_PASSWORD=root
+
 
 
 Run:
